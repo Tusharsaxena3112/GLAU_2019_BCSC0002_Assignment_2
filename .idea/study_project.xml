@@ -324,7 +324,7 @@
                       <option name="index" value="5" />
                       <option name="name" value="question5" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.java">
@@ -520,7 +520,7 @@
                       <option name="index" value="9" />
                       <option name="name" value="question9" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.java">
@@ -529,7 +529,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.java" />
                                 <option name="text" value="public class Task {&#10;&#9;// TODO write your method here and delete this line afterwards!&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -569,7 +569,7 @@
                       <option name="index" value="10" />
                       <option name="name" value="question10" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.java">
@@ -578,7 +578,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.java" />
                                 <option name="text" value="public class Task {&#10;&#9;public char asciiToChar(int ascii) {&#10;&#9;&#9;return (char) 0;&#10;&#9;}&#10;}" />
                                 <option name="trackChanges" value="true" />

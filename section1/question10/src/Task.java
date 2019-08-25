@@ -1,5 +1,6 @@
 public class Task {
 	public char asciiToChar(int ascii) {
-		return (char) 0;
+		char a=(char)ascii;
+		return a;
 	}
 }

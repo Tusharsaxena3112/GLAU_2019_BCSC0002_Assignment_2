@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Tests" tests="1" skipped="0" failures="1" errors="0" timestamp="2019-08-25T10:16:26" hostname="LAPTOP-KMTAUK9H" time="0.004">
+<testsuite name="Tests" tests="1" skipped="0" failures="1" errors="0" timestamp="2019-08-25T13:56:04" hostname="LAPTOP-KMTAUK9H" time="0.002">
   <properties/>
-  <testcase name="testSolution" classname="Tests" time="0.004">
+  <testcase name="testSolution" classname="Tests" time="0.002">
     <failure message="java.lang.AssertionError: Use assertEquals(expected, actual, delta) to compare floating-point numbers" type="java.lang.AssertionError">java.lang.AssertionError: Use assertEquals(expected, actual, delta) to compare floating-point numbers
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.assertEquals(Assert.java:667)
