@@ -62,7 +62,7 @@
                       <option name="index" value="1" />
                       <option name="name" value="question1" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.java">
@@ -88,7 +88,7 @@
                                       <option name="placeholderText" value="0" />
                                       <option name="possibleAnswer" value="a + b" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                     </AnswerPlaceholder>
                                   </list>
@@ -133,7 +133,7 @@
                       <option name="index" value="2" />
                       <option name="name" value="question2" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.java">
@@ -153,13 +153,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="13" />
-                                      <option name="offset" value="84" />
+                                      <option name="length" value="16" />
+                                      <option name="offset" value="108" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="0.0" />
                                       <option name="possibleAnswer" value="2 * Math.PI * radius" />
                                       <option name="selected" value="true" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                     </AnswerPlaceholder>
                                   </list>
